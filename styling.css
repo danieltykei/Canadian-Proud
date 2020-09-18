@@ -24,14 +24,6 @@
     font-size: 9rem;
     font-weight: 100%;
 }
-
-.regular-image{
-    position: relative;
-    bottom: 0;
-    left: 0;
-    width: 10px;
-    height: 10px;
-}
 .square {
     list-style-type: square;
     margin-left: 2em;
@@ -41,4 +33,26 @@
     width: 60rem; 
     background-color: rgb(255,255,224);
     box-shadow: 1px 1px 20px rgba(1 , 1, 1, 0.3);
+}
+
+.wearecanadianproud {
+    position: absolute;
+    background-image: url(CP\ Logo.png);
+    background-size: cover;
+    background-position: center;
+    bottom: 0;
+    left: 0;
+    width: 10px;
+    height: 10px;
+}
+
+.quebec-boys{
+    position: absolute;
+    background-image: url(QuebecBoys.JPG);
+    background-size: cover;
+    background-position: center;
+    bottom: 0;
+    left: 10px;
+    width: 10px;
+    height: 10px;
 }
