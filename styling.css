@@ -56,3 +56,14 @@
     width: 20px;
     height: 20px;
 }
+
+.zee-by-north {
+    position: absolute;
+    background-image: url(ZeeByNorth.jpg);
+    background-size: cover;
+    background-position: center;
+    bottom: 0;
+    left: 40px;
+    width: 20px;
+    height: 20px;
+}
