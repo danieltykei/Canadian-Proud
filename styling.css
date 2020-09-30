@@ -67,3 +67,14 @@
     width: 20px;
     height: 20px;
 }
+
+.brokinis {
+    position: absolute;
+    background-image: url(Brokinis.png);
+    background-size: cover;
+    background-position: center;
+    bottom: 0;
+    left: 60px;
+    width: 20px;
+    height: 20px;
+}
